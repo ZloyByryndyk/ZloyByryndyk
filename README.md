@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">QA engineer with extensive experience</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZloyByryndyk&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZloyByryndyk&layout=compact)](https://github.com/ZloyByryndyk/github-readme-stats)
 
 
 <!--
