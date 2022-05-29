@@ -7,23 +7,23 @@
 
 <h3>Connect with me:</h3>
 <a href="https://t.me/ZloyByryndyk"><img src="icon/telegram-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
-<a href="https://t.me/ZloyByryndyk"><img src="linkedin-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
+<a href="https://t.me/ZloyByryndyk"><img src="icon/linkedin-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
 
 <h3>Languages::</h3>
-<a href="http://htmlbook.ru/html?"><img src="html5-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
-<a href="http://htmlbook.ru/css?"><img src="css3-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
-<a href="https://learn.javascript.ru"><img src="javascript-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
-<a href="https://www.java.com/ru/about/"><img src="java-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
+<a href="http://htmlbook.ru/html?"><img src="icon/html5-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
+<a href="http://htmlbook.ru/css?"><img src="icon/css3-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
+<a href="https://learn.javascript.ru"><img src="icon/javascript-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
+<a href="https://www.java.com/ru/about/"><img src="icon/java-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
 
 <h3>Tools:</h3>
-<a href="https://git-scm.com"><img src="git-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
-<a href="https://www.gnu.org/software/bash/"><img src="bash-icon-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
-<a href="https://code.visualstudio.com"><img src="visual-studio-code-logo-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
-<a href="https://www.figma.com/community"><img src="figma-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
-<a href="https://www.postman.com"><img src="postman-icon-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
-<a href="https://insomnia.rest/download"><img src="insomnia-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
-<a href="https://codecept.io"><img src="codeceptjs-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
-<a href="https://appium.io"><img src="appium-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
+<a href="https://git-scm.com"><img src="icon/git-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="icon/bash-icon-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
+<a href="https://code.visualstudio.com"><img src="icon/visual-studio-code-logo-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
+<a href="https://www.figma.com/community"><img src="icon/figma-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
+<a href="https://www.postman.com"><img src="icon/postman-icon-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
+<a href="https://insomnia.rest/download"><img src="icon/insomnia-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
+<a href="https://codecept.io"><img src="icon/codeceptjs-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
+<a href="https://appium.io"><img src="icon/appium-svgrepo-com.svg" width="50px" height="50px" alt="myImage"></a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZloyByryndyk&layout=compact&theme=radical)](https://github.com/ZloyByryndyk/github-readme-stats)
